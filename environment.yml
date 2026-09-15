@@ -1,0 +1,9 @@
+name: be623
+channels:
+  - defaults
+dependencies:
+  - notebook
+  - requests
+  - python=3.11
+  - biopython
+prefix: /home/gargi123/miniconda3/envs/be623

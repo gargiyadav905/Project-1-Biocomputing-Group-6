@@ -1,0 +1,3 @@
+LOCUS       NC_012920              16569 bp    DNA     circular PRI 03-APR-2023
+aminoacid.fasta:>YP_003024026.1 NADH dehydrogenase subunit 1 (mitochondrion) [Homo sapiens]
+nucleotide.fasta:>NC_012920.1 Homo sapiens mitochondrion, complete genome
